@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project focuses on predicting the catalytic turnover rate (Kcat) using Graph Neural Networks. This project uses the benchmark dataset from the [TurNup paper](https://www.nature.com/articles/s41467-023-39840-4#data-availability). This work was done as part of a MSc thesis at the University of Galway, which can be read in the [thesis_AaronBrennan.pdf](https://gitlab.com/recon4imd/kinetics/-/blob/dev-aaron/Kcat_prediction/thesis_AaronBrennan_.pdf) file.
+This project focuses on predicting the catalytic turnover rate (Kcat) using Graph Neural Networks. This project uses the benchmark dataset from the [TurNup paper](https://www.nature.com/articles/s41467-023-39840-4#data-availability). This work was done as part of a MSc thesis at the University of Galway.
 
 ## Project Structure
 
